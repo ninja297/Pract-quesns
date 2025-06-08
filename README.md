@@ -1,1 +1,1 @@
-# Pract-quesns
+# Leet code prac quesns
